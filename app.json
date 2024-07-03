@@ -1,0 +1,37 @@
+{
+  "id": "ff62d049-6030-430a-be54-c0d6e2f125e2",
+  "name": "BCApp-1",
+  "publisher": "SNA",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [{
+    "id": "cc3ce3ca-77bf-460f-b770-e0aada29563c",
+    "name": "BC-App-2",
+    "publisher": "SNA",
+    "version": "1.0.0.0"
+  }],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
