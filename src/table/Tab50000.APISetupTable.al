@@ -27,5 +27,6 @@ table 50000 "API Setup Table"
     }
 
     var
+        [NonDebuggable]
         App2Rec: Record SampleTable;
 }
